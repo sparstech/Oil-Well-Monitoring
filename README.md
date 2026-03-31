@@ -43,7 +43,7 @@ Health score per well
    streamlit run app.py
 
 6. Open browser:
-   http://localhost:8501
+   http://localhost:8501 or https://oil-well-monitoring-ai.streamlit.app/
 
 ## Real Data Format
 CSV with columns:
