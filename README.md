@@ -32,7 +32,7 @@ Health score per well
 
 ## How to Run
 
-1. Install Python (>=3.9)
+1. Install Python (>=3.10)
 2. python -m venv venv
 3. venv\Scripts\activate
 
